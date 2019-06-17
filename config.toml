@@ -1,4 +1,31 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "blog do donato"
 theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/donatoaz\">Donato Azevedo</a> 2019"
+
+[params.info]
+# adsense = "" # Adsense ID (ID only, without ca-pub-)
+# enableSocial = true # Adds OpenGraph and Twitter cards
+# homeTitle = "" # Title for home page
+# poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+
+[params.social]
+twitter = "donatoaz"
+github = "donatoaz"
+email = "donatoaz@gmail.com"
+linkedin = "donato.vianna"
+# facebook = "ribice"
+# instagram = ""
+# codepen = ""
+
+[params.social.config]
+platforms = ["github","email","twitter","linkedin"]
+
+[params.sections_left]
+"/tdcbh" = "TDC Belo Horizonte 2019"
+
+[params.sections_right]
+"http://timeline.donatoaz.com" = "timeline"
