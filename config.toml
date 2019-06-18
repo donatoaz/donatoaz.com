@@ -1,4 +1,4 @@
-baseURL = "http://donatoaz.com/"
+baseURL = "http://donato.works/"
 languageCode = "en-us"
 title = "blog do donato"
 theme = "kiss"
@@ -28,4 +28,4 @@ platforms = ["github","email","twitter","linkedin"]
 "/tdcbh" = "TDC Belo Horizonte 2019"
 
 [params.sections_right]
-"http://timeline.donatoaz.com" = "timeline"
+"http://timeline.donato.works" = "timeline"
