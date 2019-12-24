@@ -24,8 +24,8 @@ linkedin = "donato.vianna"
 [params.social.config]
 platforms = ["github","email","twitter","linkedin"]
 
-[params.sections_left]
-"/tdcbh" = "TDC Belo Horizonte 2019"
+# [params.sections_left]
+# "/tdcbh" = "TDC Belo Horizonte 2019"
 
 [params.sections_right]
 "http://timeline.donato.works" = "timeline"
