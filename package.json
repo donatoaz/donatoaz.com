@@ -5,8 +5,9 @@
   "main": "deploy.js",
   "scripts": {
     "build": "hugo",
+    "build:prod": "HUGO_ENV=production hugo -v -d ./public",
     "deploy": "node deploy.js",
-    "deploy:prod": "DEPLOY_ENV=PRODUCTION node deploy.js"
+    "deploy:prod": "AWS_REGION=us-east-1 DEPLOY_ENV=PRODUCTION node deploy.js"
   },
   "author": "",
   "license": "ISC",

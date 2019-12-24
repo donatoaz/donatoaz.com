@@ -6,7 +6,7 @@ draft: false
 
 Já faz quase um mês desde o fim do Re:Invent 2019, mas ainda dá tempo de fazer um apanhado das novidades que foram lançadas no maior evento anual da AWS.
 
-Antes de entrarmos na lista de fato, cabe ressaltar que o evento como um todo foi marcado por uma aparente mudança muito dramática por parte da AWS em relação ao seu público alvo principal. Não mais é a nuvem o habitat apenas das start ups e early adopters aventureiros, mas sim a casa de muitas *enterprises*, o que ficou bem claro com a participação do CTO da Goldman Sachs (um grande banco de investimentos Norte-americano). Tal qual physics 101, as grandes empresas venceram a inércia e estão ganhando velocidade tanto para migração de aplicações existentes quanto para desenvolvimento de novos projetos já nativo da nuvem desde o primeiro dia.
+Antes de entrarmos na lista de fato, cabe ressaltar que o evento como um todo foi marcado por uma aparente mudança muito dramática por parte da AWS em relação ao seu público alvo principal. Não mais é a nuvem o habitat apenas das start ups e early adopters aventureiros, mas sim a casa de muitas *enterprises*, o que ficou bem claro com a participação do CTO da Goldman Sachs (um grande banco de investimentos Norte-americano). As grandes empresas venceram a inércia e estão ganhando velocidade tanto para migração de aplicações existentes quanto para desenvolvimento de novos projetos já nativos na nuvem desde o primeiro dia.
 
 **NOTA** nem todos os itens listados aqui foram efetivamente anunciados no Re:Invent 2019, são tantos lançamentos que nas semanas anteriores ao evento a AWS já estava soltando novidades (como por exemplo a storage week, ou semana do armazenamento).
 
