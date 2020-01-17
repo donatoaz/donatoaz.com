@@ -2,7 +2,7 @@ baseURL = "http://donato.works/"
 languageCode = "en-us"
 title = "blog do donato"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/donatoaz\">Donato Azevedo</a> 2019"
+copyright = "&copy; <a href=\"https://github.com/donatoaz\">Donato Azevedo</a> 2020"
 
 [params.info]
 # adsense = "" # Adsense ID (ID only, without ca-pub-)
