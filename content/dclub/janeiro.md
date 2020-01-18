@@ -200,7 +200,7 @@ DigiKeyboard.print("texto qualquer");
 DigiKeyboard.sendKeyStroke(KEY_ENTER);
 {{</ highlight >}}
 
-A lista compreensiva dos símbolos que representam os `key strokes` pode ser vista no próprio [código fonte](https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h#L63-L129).
+A lista dos símbolos definidos na biblioteca que representam os `key strokes` pode ser vista no próprio [código fonte](https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h#L63-L129) e a lista compreensiva é encontrada no [capítulo 10 do HID-usage-tables document][hid].
 
 
 **NOTA**
@@ -289,3 +289,4 @@ Para quem recebeu moído, a moagem é para métodos de percolação (filtro de p
 [assembled1]: /images/dclub/janeiro/assembled1.jpeg "Assembled1"
 [assembled2]: /images/dclub/janeiro/assembled2.jpeg "Assembled2"
 [badge]: /images/dclub/janeiro/badge.jpeg "Badge"
+[hid]: /images/dclub/janeiro/usb-hid-usage-tables.pdf "HID"
