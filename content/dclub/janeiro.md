@@ -1,7 +1,7 @@
 ---
-title: "Janeiro"
+title: "DClub - Janeiro"
 date: 2020-01-04T09:38:51-03:00
-draft: true
+draft: false
 ---
 
 # Apresentação
