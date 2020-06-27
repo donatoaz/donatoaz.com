@@ -1,3 +1,9 @@
+---
+title: "K8"
+date: 2019-06-27T11:32:11-03:00
+draft: true
+---
+
 redes com kubernetes
 CNI plugin implementam a sdn
 o kubenet é o default para o kops
